@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Datenschutzerklärung</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Startseite</a></li>
+      <li><a href="ki-products.html">KI Products</a></li>
+      <li><a href="usabilities.html">Usabilities</a></li>
+      <li><a href="reserve.html">Reserve</a></li>
+      <li><a href="impressum.html">Impressum</a></li>
+      <li><a href="dsvgo.html" class="active">Datenschutz</a></li>
+    </ul>
+  </nav>
+  <header>
+    <h1>Datenschutzerklärung</h1>
+  </header>
+  <main>
+    <h2>1. Datenschutz auf einen Blick</h2>
+    <p>
+      Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TMG).
+    </p>
+    <h2>2. Verantwortliche Stelle</h2>
+    <p>
+      Verantwortlich für die Datenverarbeitung auf dieser Website ist:<br>
+      <strong>Name/Firma</strong><br>
+      Musterstraße 1<br>
+      12345 Musterstadt<br>
+      E-Mail: info@example.com
+    </p>
+    <h2>3. Zugriffsdaten</h2>
+    <p>
+      Beim Besuch unserer Website werden automatisch Informationen allgemeiner Natur erfasst. Diese Informationen (Server-Logfiles) beinhalten z. B. die Art des Webbrowsers, das verwendete Betriebssystem, den Domainnamen Ihres Internet-Service-Providers und Ähnliches. Hierbei handelt es sich ausschließlich um Informationen, welche keine Rückschlüsse auf Ihre Person zulassen.
+    </p>
+    <h2>4. Cookies</h2>
+    <p>
+      Unsere Website verwendet Cookies. Dabei handelt es sich um kleine Textdateien, die auf Ihrem Endgerät gespeichert werden. Sie richten keinen Schaden an.
+    </p>
+    <h2>5. Ihre Rechte</h2>
+    <p>
+      Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt, können Sie sich bei der Aufsichtsbehörde beschweren.
+    </p>
+    <h2>6. Kontakt</h2>
+    <p>
+      Für Fragen zum Datenschutz erreichen Sie uns unter:<br>
+      info@example.com
+    </p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Affiliate Landingpage.</p>
+  </footer>
+</body>
+</html>
